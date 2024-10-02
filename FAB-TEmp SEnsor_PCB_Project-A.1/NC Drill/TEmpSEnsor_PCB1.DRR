@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TEmpSEnsor_PCB1.CMPcbDoc   3/24/2024  3:16:54 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TEmpSEnsor_PCB1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             4         PTH        3.79inch (96.21mm)
+T2      30mil (0.75mm)                                            Round             6         PTH        2.37inch (60.31mm)
+T3      30mil (0.762mm)                                           Round             24        PTH        12.28inch (311.89mm)
+T4      38mil (0.965mm)                                           Round             2         PTH        1.07inch (27.18mm)
+T5      39mil (1mm)                                               Round             32        PTH        5.06inch (128.52mm)
+T6      40mil (1.016mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T7      47mil (1.2mm)                                             Round             3         PTH        0.28inch (7.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              74
+
+Total Processing Time (hh:mm:ss) : 00:00:00
