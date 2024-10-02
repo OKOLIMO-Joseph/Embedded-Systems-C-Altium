@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+C:\Users\user\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for TEmpSEnsor_PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/03/24
+Time:       15:17
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                                 Layer    Footprint                            Center-X(mil) Center-Y(mil) Rotation Description                                                                             
+R6         "R2.7k THT"                             TopLayer PCB-gfkc8mq71fa2o4qnwuok-1           4880.000      3751.850      90       "Resistor; Resistance 2.7k Ohms, THT"                                                   
+R5         "R2.7k THT"                             TopLayer PCB-gfkc8mq71fa2o4qnwuok-1           5485.000      3691.850      90       "Resistor; Resistance 2.7k Ohms, THT"                                                   
+R4         "R2.7k THT"                             TopLayer PCB-gfkc8mq71fa2o4qnwuok-1           6070.000      3708.150      90       "Resistor; Resistance 2.7k Ohms, THT"                                                   
+R          Red                                     TopLayer PCB-uzur084zw2lo12w1tw7w-1           6030.000      4332.500      0        "LED-5mm Super White Water Clear Lens 16000 Mcd"                                        
+O          Orange                                  TopLayer PCB-uzur084zw2lo12w1tw7w-1           5430.000      4332.500      0        "LED-5mm Super White Water Clear Lens 16000 Mcd"                                        
+G          Green                                   TopLayer PCB-uzur084zw2lo12w1tw7w-1           4850.000      4377.500      0        "LED-5mm Super White Water Clear Lens 16000 Mcd"                                        
+W          White                                   TopLayer PCB-uzur084zw2lo12w1tw7w-1           4310.000      4352.500      0        "LED-5mm Super White Water Clear Lens 16000 Mcd"                                        
+PM         ""                                      TopLayer PCB-0kr9eu6zp7fhutysqv4z-1           6085.000      1325.000      0        "Potentiometers, Encoders and Resolvers, Potentiometers, Conductive Plastic"            
+U2         "Arduino A000066 No Analog Pins Edited" TopLayer PCB-5e3n8s0ey5jqr2f9nncc-1           2275.000      3655.000      90       "Microcontroller board, Uno [Arduino] A000066 Microcontroller board, Uno 7640152110092" 
+SM         "Adafruit Industries 1143"              TopLayer Adafruit_Industries_1143-Footprint-1 6635.000      3375.000      90       "Servo Motors DC Motor 6VDC 0.215N.m 1Shaft"                                            
+lcd        "LCD display w/o unused pins"           TopLayer Adafruit_Industries_181-Footprint-1  4020.000      1880.000      90       ""                                                                                      
+TS         "Adafruit Industries 381"               TopLayer PCB-4jkftp4g9jgygak3ejkg-1           2557.205      1710.000      0        "Adafruit Waterproof DS18B20 Digital temperature sensor + extras"                       
+*          "Adafruit Industries 1143"              TopLayer Adafruit_Industries_1143-Footprint-1 6635.000      2305.000      90       "Servo Motors DC Motor 6VDC 0.215N.m 1Shaft"                                            
